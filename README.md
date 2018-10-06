@@ -1,0 +1,2 @@
+# JobNameGenerator
+A Windows Batch Script to generate a random funny job name displayed in the command prompt. The script creates a list of funy words, a list of normal job titles, displays a title screen, generates two random values with a range based on how many items are in each list, populates two string variable with that the text from each lists location, displays results to the user, prompts the user with option to pick new random name combo or exit.
